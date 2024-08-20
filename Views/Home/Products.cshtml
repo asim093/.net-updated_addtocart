@@ -1,0 +1,77 @@
+﻿@model IEnumerable<landingpage.Models.Item>
+
+@{
+    ViewData["Title"] = "Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-0 gx-5 align-items-end">
+            <div class="col-lg-6">
+                <div class="section-header text-start mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                    <h1 class="display-5 mb-3">Our Products</h1>
+                  
+                </div>
+            </div>
+            <div class="col-lg-6 text-start text-lg-end wow slideInRight" data-wow-delay="0.1s">
+               
+            </div>
+        </div>
+        <div class="row g-4">
+            @foreach (var item in Model)
+            {
+                <div class="col-xl-3 col-lg-4 col-md-6 mt-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="card border-0 rounded shadow-sm">
+                        <img src="@item.Pimage" class="card-img-top" alt="@item.Name" />
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@item.Name</h5>
+                            <p class="card-text">@item.Description</p>
+                            <h6 class="card-subtitle mb-2 text-muted">Rs. @item.Price</h6>
+                            <div class="buttondiv">
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">View Details</a>
+                                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-secondary">Add to Cart</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<!-- Optional Custom CSS -->
+<style>
+    .card-img-top {
+        height: 200px;
+        object-fit: cover; 
+    }
+
+    .buttondiv{
+        display:flex;
+        justify-content:space-between;
+    }
+
+        .buttondiv a{
+            height:2.5rem;
+            font-size:14px;
+        }
+    .card {
+        border-radius: 0.5rem;
+        overflow: hidden;
+    }
+
+    .card-body {
+        padding: 1.5rem;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+</style>

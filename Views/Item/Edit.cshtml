@@ -1,0 +1,125 @@
+﻿@model landingpage.Models.Item
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/admin.cshtml";
+}
+
+<style>
+    .cont {
+        padding: 20px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+
+    .form-group {
+        margin-bottom: 1.5rem;
+        display:flex;
+        justify-content:space-between;
+    }
+
+    .form-label {
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+        display: block;
+    }
+
+    .form-control {
+        border-radius: 4px;
+        box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+        border: 1px solid #ced4da;
+        padding: 0.375rem 0.75rem;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            border-color: #4e555b;
+        }
+
+    .img-fluid {
+        max-height: 200px;
+        object-fit: cover;
+    }
+
+    .text-danger {
+        color: #dc3545;
+    }
+</style>
+
+<div class="cont">
+    <h1>Edit Item</h1>
+    <h4>Item</h4>
+    <hr />
+
+    <div class="row">
+        <div class="col-md-8">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+                <input type="hidden" asp-for="Id" />
+
+                <div class="form-group">
+                    <label asp-for="Name" class="form-label">Name</label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Description" class="form-label">Description</label>
+                    <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Price" class="form-label">Price</label>
+                    <input asp-for="Price" class="form-control" type="number" step="0.01" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input name="oldImage" type="hidden" value="@Model.Pimage" />
+                    <label asp-for="Pimage" class="form-label">Image</label>
+                    <input asp-for="Pimage" type="file" name="file" class="form-control" />
+                    <span asp-validation-for="Pimage" class="text-danger"></span>
+
+                    @if (!string.IsNullOrEmpty(Model.Pimage))
+                    {
+                        <div class="mt-3">
+                            <label class="form-label">Current Image</label>
+                            <img src="@(Model.Pimage)" alt="Current Image" class="img-fluid" />
+                        </div>
+                    }
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CatId" class="form-label">Category</label>
+                    <select asp-for="CatId" class="form-control" asp-items="ViewBag.CatId"></select>
+                    <span asp-validation-for="CatId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="mt-3">
+        <a class="btn btn-secondary" asp-action="Index">Back to List</a>
+    </div>
+</div>

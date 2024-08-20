@@ -1,0 +1,589 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\landingpage.bundle.scp.css",
+      "PackagePath": "staticwebassets\\landingpage.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\Uploads\\241317121308-ps5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\241317121308-ps5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\Uploads\\244220124251-ps5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\244220124251-ps5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\admin\\images\\profile.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\admin\\js\\customers.js",
+      "PackagePath": "staticwebassets\\admin\\js\\customers.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\admin\\js\\orders.js",
+      "PackagePath": "staticwebassets\\admin\\js\\orders.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\admin\\js\\products.js",
+      "PackagePath": "staticwebassets\\admin\\js\\products.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\admin\\js\\sales.js",
+      "PackagePath": "staticwebassets\\admin\\js\\sales.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\admin\\js\\tarsale.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tarsale.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\alt-features.png",
+      "PackagePath": "staticwebassets\\img\\alt-features.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-author.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-inside-post.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-inside-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-recent-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-recent-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-recent-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-recent-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\blog-recent-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-recent-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\comments-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\comments-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\comments-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\comments-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\comments-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\blog\\comments-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\comments-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\clients\\client-1.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\clients\\client-2.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\clients\\client-3.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\clients\\client-4.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\clients\\client-5.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-5.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\clients\\client-6.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-6.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\clients\\client-7.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-7.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\clients\\client-8.png",
+      "PackagePath": "staticwebassets\\img\\clients\\client-8.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\features.png",
+      "PackagePath": "staticwebassets\\img\\features.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\hero-bg.png",
+      "PackagePath": "staticwebassets\\img\\hero-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\hero-img.png",
+      "PackagePath": "staticwebassets\\img\\hero-img.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\app-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\app-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\app-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\app-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\app-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\app-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\books-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\books-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\books-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\books-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\books-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\books-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\branding-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\branding-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\branding-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\branding-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\branding-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\portfolio\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\services.jpg",
+      "PackagePath": "staticwebassets\\img\\services.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\team-shape.svg",
+      "PackagePath": "staticwebassets\\img\\team-shape.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\values-1.png",
+      "PackagePath": "staticwebassets\\img\\values-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\values-2.png",
+      "PackagePath": "staticwebassets\\img\\values-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\img\\values-3.png",
+      "PackagePath": "staticwebassets\\img\\values-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\lib\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\lib\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\lib\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\lib\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\lib\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\lib\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Documents\\Asim\\.net\\wwwroot\\lib\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.landingpage.props",
+      "PackagePath": "build\\landingpage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.landingpage.props",
+      "PackagePath": "buildMultiTargeting\\landingpage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.landingpage.props",
+      "PackagePath": "buildTransitive\\landingpage.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.landingpage.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

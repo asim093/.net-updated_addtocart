@@ -1,0 +1,44 @@
+﻿@model landingpage.Models.Item
+@using System.Security.Claims
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var userIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
+    var userId = Convert.ToInt32(Context.Session.GetInt32("UserID"));
+
+    var cart = ViewBag.Cart as landingpage.Models.Cart;
+}
+
+<!-- About Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                <div class="about-img position-relative overflow-hidden p-5 pe-0">
+                    <img class="img-fluid w-100" src="@Model.Pimage" alt="Item Image">
+                </div>
+            </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <h1 class="display-5 mb-4">@Model.Name</h1>
+                <p class="mb-4">@Model.Description</p>
+                <p><i class="fa fa-check text-primary me-3"></i>Rs. @Model.Price</p>
+                <form asp-action="AddToCart" method="post">
+                    <input type="number" asp-for="@cart.Qty" value="1" min="1" max="10" class="form-control" />
+                    <input type="hidden" asp-for="@cart.Price" value="@Model.Price" class="form-control" />
+                    <input type="hidden" asp-for="@cart.UserId" value="@userId" class="form-control" />
+                    <input type="hidden" asp-for="@cart.ItemId" value="@Model.Id" class="form-control" />
+
+                    <button type="submit" class="btn btn-primary rounded-pill py-3 px-5 mt-3"> Add to cart</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- About End -->
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

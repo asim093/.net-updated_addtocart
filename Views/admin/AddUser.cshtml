@@ -1,0 +1,107 @@
+﻿@model landingpage.Models.User
+
+@{
+    ViewData["Title"] = "AddUser";
+    Layout = "~/views/Shared/admin.cshtml";
+}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        padding-top: 20px;
+    }
+
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #fff;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .control-label {
+        font-weight: bold;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+    .text-danger {
+        color: #dc3545;
+    }
+
+    .parent {
+        position: fixed;
+        top: 10%;
+        right: 10%;
+        width: 250px;
+        background-color: #f0f0f0;
+        padding: 15px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .container {
+        width: 50%;
+        overflow: hidden;
+        position: absolute;
+        top: 30%;
+        right: 20%;
+        z-index:10;
+    }
+</style>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h2>Add User</h2>
+            <hr />
+            <form asp-action="AddUser">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Id" class="control-label">ID</label>
+                    <input asp-for="Id" class="form-control" />
+                    <span asp-validation-for="Id" class="text-danger"></span>
+                </div>
+
+           @*      <div class="form-group">
+                    <label asp-for="username" class="control-label">Username</label>
+                    <input asp-for="username" class="form-control" />
+                    <span asp-validation-for="username" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="email" class="control-label">Email</label>
+                    <input asp-for="email" class="form-control" />
+                    <span asp-validation-for="email" class="text-danger"></span>
+                </div> *@
+
+                <div class="form-group">
+                    @* <label asp-for="password" class="control-label">Password</label>
+                    <input asp-for="password" type="password" class="form-control" />
+                    <span asp-validation-for="password" class="text-danger"></span> *@
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
